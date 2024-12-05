@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>Stacks</h1>
+  🛠️<h2>Stacks</h2>
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
