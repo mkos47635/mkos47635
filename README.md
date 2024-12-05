@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00FFFF&height=200&section=header&text=👋&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D3D3D3,100:C0C0C0&height=200&section=header&text=👋&fontSize=50&fontColor=000000)
+
 
 <div align="center">
   <h1>Hi, I'm SeongWon!</h1>
