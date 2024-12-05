@@ -2,13 +2,12 @@
 
 
 <div align="center">
-  <h1>Hi, I'm SeongWon!</h1>
+  <h1>Hi, I'm SeongWon!</h1><br>
 </div>
 
 <div align="center">
-  <h2>🛠️Stacks</h2>
+  <h2>🛠️Stacks</h2><br>
 </div>
-
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
