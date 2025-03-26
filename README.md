@@ -19,6 +19,18 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=GIT&logoColor=white">
   <br>
+  
+</div>
+
+<div align="center">
+  <h2>🛠️Tools</h2><br>
+</div>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=GIT&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GITHUB&logoColor=white">
 </div>
+
+
